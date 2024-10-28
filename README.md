@@ -1,6 +1,11 @@
 **Atlas Labs HR Analytics Dashboard in Power BI**
 This repository contains a comprehensive HR analytics case study for a software company, Atlas Labs. The goal of this project was to import, analyze, and visualize human resources data to understand employee attrition, performance, and demographics using Power BI.
+
 ![image](https://github.com/user-attachments/assets/790f3f44-b726-4517-87f4-02d285f31041)
+![image](https://github.com/user-attachments/assets/fe0d422b-3612-428b-aca6-1aa1a14d4ccd)
+![image](https://github.com/user-attachments/assets/ee5c1283-9cd9-4db0-9a9b-a825f04e5660)
+![image](https://github.com/user-attachments/assets/378c36dc-37e1-4f29-bbce-073fc40466ac)
+
 
 **Project Overview**
 In this case study, we developed an HR analytics dashboard focused on:
@@ -9,17 +14,6 @@ Analyzing employee attrition and retention
 Exploring demographic trends across departments
 Investigating performance indicators to improve operational efficiency
 The dashboard provides actionable insights, helping Atlas Labs improve employee retention and streamline their HR strategy.
-
-**Table of Contents**
-Project Structure
-Data Sources
-Data Preparation & Loading
-Data Modeling
-Exploratory Data Analysis (EDA)
-Dashboard Design & Development
-Insights & Findings
-Screenshots
-Conclusion
 
 
 **Project Structure**
